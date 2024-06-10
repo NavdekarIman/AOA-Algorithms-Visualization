@@ -46,5 +46,5 @@ We appreciate your interest and look forward to your contributions!
 
 ## Contact
 
-For any questions or feedback, feel free to reach out at [your-email@example.com].
+For any questions or feedback, feel free to reach out at [imannavdekar08@gmail.com].
 
