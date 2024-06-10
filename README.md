@@ -1,42 +1,50 @@
 # AOA Algorithm Visualization
 
-Welcome to AOA Algorithm Visualization, a website showcasing various algorithms based on different approaches in the field of Analysis of Algorithms (AOA). This project is crafted using HTML, CSS, JavaScript, and Bootstrap.
+Welcome to AOA Algorithm Visualization, a web-based tool showcasing various algorithms from different problem-solving approaches.
 
-## Algorithms and Approaches
+## Overview
 
-Explore algorithms from different problem-solving approaches:
+This project offers interactive visualizations for algorithms, providing a hands-on learning experience for students and enthusiasts alike. Leveraging HTML, CSS, JavaScript, and Bootstrap, it presents algorithms in a user-friendly and visually appealing manner.
 
-### Greedy Approach
-- **Dijkstra Algorithm**
-- **Fractional Knapsack Algorithm**
+## Algorithms Covered
 
-### Backtracking Approach
-- **N-Queen Algorithm**
+Explore algorithms categorized by different approaches:
 
-### Dynamic Programming Approach
-- **0/1 Knapsack Algorithm**
+- **Greedy Approach**
+  - Dijkstra Algorithm
+  - Fractional Knapsack Algorithm
 
-### Divide & Conquer Approach
-- **Merge Sort Algorithm**
-- **Quick Sort Algorithm**
+- **Backtracking Approach**
+  - N-Queen Algorithm
 
-## How to Use
+- **Dynamic Programming Approach**
+  - 0/1 Knapsack Algorithm
+
+- **Divide & Conquer Approach**
+  - Merge Sort Algorithm
+  - Quick Sort Algorithm
+
+## Getting Started
 
 1. **Clone the repository.**
-2. **Open the index.html file in your browser.**
+2. **Open `index.html` in your browser.**
 3. **Select an algorithm and approach.**
-4. **Click the "Run Algorithm" button to see the algorithm in action.**
+4. **Click the "Run Algorithm" button to visualize the algorithm in action.**
 
 ## Contributing
 
-We welcome contributions! If you're interested in enhancing this project, follow these steps:
+We welcome contributions to enhance this project! Here's how you can get involved:
 
 1. **Fork the repository.**
 2. **Create a new branch (`git checkout -b feature/your-branch-name`).**
 3. **Make your changes.**
 4. **Commit your changes (`git commit -am 'Add your message here'`).**
 5. **Push to the branch (`git push origin feature/your-branch-name`).**
-6. **Create a new Pull Request.**
+6. **Open a Pull Request.**
 
-Feel free to reach out with any questions or suggestions!
+We appreciate your interest and look forward to your contributions!
+
+## Contact
+
+For any questions or feedback, feel free to reach out at [your-email@example.com].
 
